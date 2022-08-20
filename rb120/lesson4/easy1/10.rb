@@ -1,0 +1,1 @@
+Bag.new("thing","thing")
